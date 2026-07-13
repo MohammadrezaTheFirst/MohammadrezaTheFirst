@@ -9,7 +9,6 @@
     ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝       ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=whoami;Mohammadreza+%E2%80%94+Backend+Developer;booting+Linux...+%5BOK%5D;compiling+skills...+%5BOK%5D;status%3A+building%2C+not+cloning+tutorials;Hello_World.java+%3E+%2Fdev%2Fnull" alt="Typing SVG" />
 
 </div>
 
@@ -22,13 +21,20 @@ root@mohammadreza:~$ cat about.txt
 > "I learned very early the difference between knowing the name of something and knowing something."
 
 ```bash
-[system]  OS ............ Linux (daily driver, not a dual-boot tourist)
-[system]  Focus .......... Backend Development / Java
-[system]  Philosophy ..... build real things > follow tutorials
-[system]  Aesthetic ...... dark mode or no mode
-[system]  Vibe ........... Mr. Robot > corporate LinkedIn energy
-[system]  Known projects . I_AM_TERMINAL, I_AM_COMPUTER
-root@mohammadreza:~$ _
+visitor@github:~$ fastfetch
+```
+
+```text
+              Mohammadreza@github
+---------------------------------------------
+OS           Ubuntu Linux
+Shell        zsh
+Editor       VS Code, IntelliJ IDEA
+Languages    Java, Python
+Learning     Spring Boot
+Current      ResumeForge
+              Metro Route Finder
+Goal         Build software people actually use
 ```
 
 <br>
@@ -59,24 +65,31 @@ root@mohammadreza:~$ ls -la ~/projects
 <tr>
 <td width="50%">
 
-**`I_AM_TERMINAL/`**
-_A project built from the terminal up — not a "todo app" tutorial clone._
-[`→ open`](https://github.com/MohammadrezaTheFirst)
+**`ResumeForge//`**
+- Generate beautiful resumes from JSON with multiple themes.
+[`→ open`](https://github.com/MohammadrezaTheFirst/ResumeForge)
 
 </td>
-<td width="50%">
 
-**`I_AM_COMPUTER/`**
-_Because "Hello World" gets boring after the third framework._
-[`→ open`](https://github.com/MohammadrezaTheFirst)
-
-</td>
 </tr>
 </table>
 
 </div>
 
 <br>
+
+```bash
+visitor@github:~$ mission
+```
+
+```text
+Current focus
+
+• Learning Java deeply
+• Building backend projects
+• Preparing for programming competitions
+• Open to collaboration
+```
 
 <div align="center">
 
@@ -90,6 +103,8 @@ _Because "Hello World" gets boring after the third framework._
 </div>
 
 <br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadrezaTheFirst&theme=github-dark&bg_color=0D1117&hide_border=true&line=00FF41&point=00FF41"/>
 
 ```bash
 root@mohammadreza:~$ cat connect.sh
@@ -107,10 +122,12 @@ root@mohammadreza:~$ cat connect.sh
 
 <div align="center">
 
-```
-> connection closed by remote host.
-> session logged.
-```
+
+visitor@github:~$ exit
+
+logout
+Connection to github closed.
+
 
 <img src="https://komarev.com/ghpvc/?username=MohammadrezaTheFirst&label=PROFILE+VIEWS&color=00FF41&style=flat-square&labelColor=000000" />
 
