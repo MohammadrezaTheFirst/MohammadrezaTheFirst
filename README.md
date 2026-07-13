@@ -16,6 +16,7 @@
 
 ```bash
 visitor@github:~$ whoami
+Mohammadreza Abed
 ```
 
 > "I learned very early the difference between knowing the name of something and knowing something."
@@ -56,7 +57,7 @@ Goal         Build software people actually use
 <br>
 
 ```bash
-root@mohammadreza:~$ ls -la ~/projects
+visitor@github:~$ ls ~/projects
 ```
 
 <div align="center">
@@ -87,7 +88,7 @@ Current focus
 
 • Learning Java deeply
 • Building backend projects
-• Preparing for programming competitions
+• Exploring Linux
 • Open to collaboration
 ```
 
