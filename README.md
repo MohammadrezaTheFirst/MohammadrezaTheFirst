@@ -47,9 +47,9 @@ Goal         Build software people actually use
 <img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Vim-000000?style=for-the-badge&logo=vim&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=docker&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/-Jinja2-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=vim&logoColor=00FF41" />
 
 </div>
 
@@ -66,7 +66,7 @@ root@mohammadreza:~$ ls -la ~/projects
 <td width="50%">
 
 **`ResumeForge//`**
-- Generate beautiful resumes from JSON with multiple themes.
+_- Generate beautiful resumes from JSON with multiple themes._
 [`→ open`](https://github.com/MohammadrezaTheFirst/ResumeForge)
 
 </td>
@@ -106,6 +106,10 @@ Current focus
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadrezaTheFirst&theme=github-dark&bg_color=0D1117&hide_border=true&line=00FF41&point=00FF41"/>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/MohammadrezaTheFirst/MohammadrezaTheFirst/output/github-contribution-grid-snake-dark.svg">
+</p>
+
 ```bash
 root@mohammadreza:~$ cat connect.sh
 ```
@@ -122,11 +126,11 @@ root@mohammadreza:~$ cat connect.sh
 
 <div align="center">
 
-
+_
 visitor@github:~$ exit
 
 logout
-Connection to github closed.
+Connection to github closed._
 
 
 <img src="https://komarev.com/ghpvc/?username=MohammadrezaTheFirst&label=PROFILE+VIEWS&color=00FF41&style=flat-square&labelColor=000000" />
