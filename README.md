@@ -15,7 +15,7 @@
 <br>
 
 ```bash
-root@mohammadreza:~$ cat about.txt
+visitor@github:~$ whoami
 ```
 
 > "I learned very early the difference between knowing the name of something and knowing something."
@@ -95,17 +95,22 @@ Current focus
 
 ### `> stats --render`
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohammadrezaTheFirst&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" width="48%" />
-<img src="https://streak-stats.demolab.com?user=MohammadrezaTheFirst&theme=chartreuse-dark&hide_border=true&background=0D1117">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadrezaTheFirst&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" width="48%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohammadrezaTheFirst&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
+<img width="49%" src="https://streak-stats.demolab.com?user=MohammadrezaTheFirst&theme=chartreuse-dark&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadrezaTheFirst&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
 </div>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadrezaTheFirst&theme=github-dark&bg_color=0D1117&hide_border=true&line=00FF41&point=00FF41"/>
-
+<img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadrezaTheFirst&theme=github-dark&hide_border=true&bg_color=0D1117&line=00FF41&point=00FF41"/>
 
 ```bash
 visitor@github:~$ git remote -v
