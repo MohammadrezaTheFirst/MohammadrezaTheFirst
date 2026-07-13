@@ -96,14 +96,14 @@ Current focus
 
 ### `> stats --render`
 
-<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohammadrezaTheFirst&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<p align="center">
 
 <img width="49%" src="https://streak-stats.demolab.com?user=MohammadrezaTheFirst&theme=chartreuse-dark&hide_border=true"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadrezaTheFirst&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
+</p>
 </p>
 </div>
 
