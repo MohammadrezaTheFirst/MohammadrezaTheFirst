@@ -41,7 +41,7 @@ Goal         Build software people actually use
 
 <img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/-Jinja2-000000?style=for-the-badge&logo=jinja&logoColor=00FF41" />
