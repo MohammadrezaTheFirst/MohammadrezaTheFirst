@@ -91,15 +91,9 @@ Current focus
 
 ### `> stats --render`
 
+<img width="49%" src="https://streak-stats.demolab.com?user=MohammadrezaTheFirst&theme=chartreuse-dark&hide_border=true" />
+<img width="49%" src="https://img.shields.io/github/languages/top/MohammadrezaTheFirst/ResumeForge?style=for-the-badge&color=00FF41&labelColor=000000" />
 
-<p align="center">
-
-<img width="49%" src="https://streak-stats.demolab.com?user=MohammadrezaTheFirst&theme=cha
-
-<img src="https://img.shields.io/github/languages/top/MohammadrezaTheFirst/ResumeForge?style=for-the-badge&color=00FF41&labelColor=000000" />
-
-</p>
-</p>
 </div>
 
 <br>
