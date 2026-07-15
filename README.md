@@ -94,8 +94,9 @@ Current focus
 
 <p align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=MohammadrezaTheFirst&theme=chartreuse-dark&hide_border=true"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohammadrezaTheFirst&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" width="48%" />
+<img width="49%" src="https://streak-stats.demolab.com?user=MohammadrezaTheFirst&theme=cha
+
+<img src="https://img.shields.io/github/languages/top/MohammadrezaTheFirst/ResumeForge?style=for-the-badge&color=00FF41&labelColor=000000" />
 
 </p>
 </p>
